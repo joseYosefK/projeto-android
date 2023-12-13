@@ -120,10 +120,6 @@ main{
     aside{
         display: none;
     }
-        
-        aside ul{
-            columns: 2;
-        }
 
 footer{
     background-color: #063d1e;

@@ -120,7 +120,11 @@ main{
     aside{
         display: none;
     }
-
+    aside ul{
+        flex-direction: row;
+        flex-wrap: wrap;
+        columns: 2;
+    }
 footer{
     background-color: #063d1e;
     color: white;

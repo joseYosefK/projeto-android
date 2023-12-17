@@ -38,6 +38,7 @@ header{
     color: #063d1e;
     }
     header p{
+        font-size: 1.3em;
         margin: 0px;
         padding-bottom: 5px;
     }
